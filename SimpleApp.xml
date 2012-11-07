@@ -90,7 +90,7 @@ var myMessageCount = 0;
 var missedMessages = 0;
 
 // Various constants for width and height
-var tileSide = 10;
+var tileSide = 5;
 var pixelWidth = 300;
 var pixelHeight = 300;
 var tileWidth = pixelWidth / tileSide;
