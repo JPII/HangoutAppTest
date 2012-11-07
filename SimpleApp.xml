@@ -170,7 +170,7 @@ window.requestAnimFrame = (
           window.oRequestAnimationFrame ||
           window.msRequestAnimationFrame ||
           function(callback) {
-            window.setTimeout(callback, 1000 / 120);
+            window.setTimeout(callback, 1);
           };
     })();
 
