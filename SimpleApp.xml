@@ -69,6 +69,7 @@
 
         <input type='button' class='button' value='Reset picture' onClick='initColorBoxes()'></input>
     </div>
+<!-- 
     <div id='text'>
         <h2>What am I seeing?</h2>
 
@@ -81,6 +82,7 @@
         <p>Note that some messages may be dropped, especially if your application sends lots of them at once.  This app is locked to a maximum of
         30 messages per second to avoid overloading the channel.</p>
     </div>
+-->
 </div>
 
 <script>
